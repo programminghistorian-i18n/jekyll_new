@@ -43,7 +43,7 @@ defaults:
       path: "ua"
     values:
       lang: "ua"
-- scope:
+  - scope:
       path: "zh_HK"
     values:
       lang: "zh_HK"
