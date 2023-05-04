@@ -1,7 +1,7 @@
 name: Programming Historian
 description: Introductory and intermediate programming lessons for humanists
 # Used to insert the live url of the site in places that require a full link such as suggested citations and XML feed
-liveurl: https://programminghistorian-i18n.github.io/jekyll_new/
+# liveurl: https://programminghistorian-i18n.github.io/jekyll_new/
 permalink: :categories/:title
 exclude:
   - deprecated
