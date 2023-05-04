@@ -106,4 +106,4 @@ sitewide_donation_banner: true
 
 # For local work: bundle exec jekyll serve --watch --baseurl '/proghistdev' or wherever else your local site is located
 baseurl: ''
-url: ""
+url: "jekyll_new"
