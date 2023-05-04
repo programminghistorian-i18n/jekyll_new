@@ -44,9 +44,9 @@ defaults:
     values:
       lang: "ua"
 - scope:
-      path: "zh_hk"
+      path: "zh_HK"
     values:
-      lang: "zh_hk"
+      lang: "zh_HK"
 - scope:
       path: "en/lessons"
     values:
@@ -92,7 +92,7 @@ defaults:
     values:
       lesson: true
   - scope:
-      path: "zh_hk/lessons"
+      path: "zh_HK/lessons"
     values:
       lesson: true
   - scope:
