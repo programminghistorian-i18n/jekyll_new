@@ -40,6 +40,14 @@ defaults:
     values:
       lang: "pt"
   - scope:
+      path: "ua"
+    values:
+      lang: "ua"
+- scope:
+      path: "zh_hk"
+    values:
+      lang: "zh_hk"
+- scope:
       path: "en/lessons"
     values:
       lesson: true
@@ -80,6 +88,14 @@ defaults:
     values:
       lesson: true
   - scope:
+      path: "ua/lessons"
+    values:
+      lesson: true
+  - scope:
+      path: "zh_hk/lessons"
+    values:
+      lesson: true
+  - scope:
       path: _posts
     values:
       category: posts
@@ -89,5 +105,5 @@ lesson_donation_alerts: true
 sitewide_donation_banner: true
 
 # For local work: bundle exec jekyll serve --watch --baseurl '/proghistdev' or wherever else your local site is located
-baseurl: ''
-url: "jekyll_new"
+baseurl: 'https://programminghistorian-i18n.github.io/jekyll_new'
+url: ""
