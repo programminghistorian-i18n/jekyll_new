@@ -105,5 +105,5 @@ lesson_donation_alerts: true
 sitewide_donation_banner: true
 
 # For local work: bundle exec jekyll serve --watch --baseurl '/proghistdev' or wherever else your local site is located
-baseurl: 'https://programminghistorian-i18n.github.io/jekyll_new/'
+baseurl: 'https://programminghistorian-i18n.github.io/jekyll_new'
 url: ""
