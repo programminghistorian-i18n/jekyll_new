@@ -1,7 +1,7 @@
 name: Programming Historian
 description: Introductory and intermediate programming lessons for humanists
 # Used to insert the live url of the site in places that require a full link such as suggested citations and XML feed
-liveurl: https://programminghistorian.org
+liveurl: https://programminghistorian-i18n.github.io/jekyll_new/
 permalink: :categories/:title
 exclude:
   - deprecated
@@ -105,5 +105,5 @@ lesson_donation_alerts: true
 sitewide_donation_banner: true
 
 # For local work: bundle exec jekyll serve --watch --baseurl '/proghistdev' or wherever else your local site is located
-baseurl: 'https://programminghistorian-i18n.github.io/jekyll_new'
+baseurl: ''
 url: ""
